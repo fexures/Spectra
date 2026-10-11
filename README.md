@@ -2,4 +2,4 @@ TEST VERSION
 
 крутой скрипт
 
-из-за обфусификации наблюдаются ебейшие просадки по фпс если включен esp
+пример загрузки: loadstring(game:HttpGet("https://raw.githubusercontent.com/fexures/Spectra/refs/heads/main/Cold%20War%20Script"))()
